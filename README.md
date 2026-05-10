@@ -116,7 +116,7 @@ Pawductivity/
 
 ### Dashboard
 
-![Dashboard Preview]()
+![Dashboard Preview](docs/images/dashboard-preview.png)
 
 ### Theme Switching
 
